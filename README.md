@@ -20,5 +20,8 @@ So basically it’s supposed to run pretty much everywhere, bringing you the imm
 ## Screenshots
 `TODO`
 
+## Acknowledgements 
+`TODO mention repo inspiration in Cocoapods Moya`
+
 ## License
 Glip Glops is released under an MIT license. See [LICENSE](https://github.com/afonsograca/Glip-Glops/blob/master/LICENSE) for more information.
