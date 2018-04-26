@@ -3,10 +3,10 @@ Glip Glops is a color theme. It’s like *Xcode*’s **Civic** and **Dusk**  the
 
 So basically it’s supposed to run pretty much everywhere, bringing you the immense joy of having a unified look throughout your everyday tools.
 
-`TODO`
+`TODO vision`
 
 ## Palette
-`TODO`
+![Palette](assets/palette.png)
 
 ## Installation
 `TODO`
