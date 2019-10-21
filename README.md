@@ -14,13 +14,20 @@ So basically it’s supposed to run pretty much everywhere, bringing you the imm
 `TODO`
 ### Manually
 `TODO`
+#### Xcode
+Xcode doesn't provide a seamless way to add new themes, so you'll need to copy these [contents](themes/Xcode) into
+```
+~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+```
+An easy way to get there is to open a Finder window and use the command `⌘ + ⇧ + G` and paste the path there.
+
 ## Contributing
 `TODO`
 
 ## Screenshots
 `TODO`
 
-## Acknowledgements 
+## Acknowledgements
 `TODO mention repo inspiration in Cocoapods Moya`
 
 ## License
