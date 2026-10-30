@@ -59,7 +59,7 @@ Contributions are welcome! Read the [contributing guidelines](CONTRIBUTING.md) t
 `TODO`
 
 ## Acknowledgements
-`TODO mention repo inspiration in Cocoapods Moya`
+This README and the [contributing guidelines](CONTRIBUTING.md) are inspired by [Moya](https://github.com/Moya/Moya) and its [contributors guide](https://github.com/moya/contributors).
 
 ## License
 Glip Glops is released under an MIT license. See [LICENSE](https://github.com/afonsograca/Glip-Glops/blob/main/LICENSE) for more information.
