@@ -1,0 +1,27 @@
+# Glip Glops Light
+
+background = #FAFAFA
+foreground = #1F2029
+
+cursor-color = #1F2029
+cursor-text = #FAFAFA
+
+selection-background = #E8E8E8
+selection-foreground = #1F2029
+
+palette = 0=#1F2029
+palette = 1=#DB2C38
+palette = 2=#16A34A
+palette = 3=#D4A100
+palette = 4=#4155D1
+palette = 5=#BE0A82
+palette = 6=#0891B2
+palette = 7=#6B6B6B
+palette = 8=#4C4C4C
+palette = 9=#DB2C38
+palette = 10=#16A34A
+palette = 11=#D4A100
+palette = 12=#4155D1
+palette = 13=#BE0A82
+palette = 14=#00A0BE
+palette = 15=#4C4C4C
