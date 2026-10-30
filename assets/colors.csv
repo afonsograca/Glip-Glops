@@ -1,1 +1,32 @@
-"#1F2029", "#282938", "#35404E", "#4C4C4C", "#D81196", "#4155D1", "#DB2C38", "#55747C", "#149C92", "#00A0BE", "#786DC4", "#B86838", "#C67C48", "#32CF72", "#83C057", "#A4A4A4", "#FFFFFF"
+name,dark,light
+Background,#1F2029,#FAFAFA
+Surface,#282938,#F5F5F5
+Border,#35404E,#E8E8E8
+Muted text,#B8B8B8,#6B6B6B
+Secondary text,#D4D4D4,#4C4C4C
+Primary text,#F5F5F5,#1F2029
+Pink,#D81196,#BE0A82
+Bright magenta,#FC44B5,
+Red,#DB2C38,#DB2C38
+Bright red,#FF5457,
+Orange 1,#D97742,
+Orange 2,#FF8C42,
+Yellow,#E8B339,#D4A100
+Bright yellow,#FFD786,
+Green 1,#83C057,
+Green 2,#32CF72,
+Bright green,#5DF091,
+Teal,#149C92,#149C92
+Cyan 1,#00A0BE,
+Cyan 2,#7DD3DA,
+Blue,#485EDB,#4155D1
+Bright blue,#627EFE,
+Purple,#786DC4,#786DC4
+Slate,#55747C,#55747C
+Invisible,,#CCCCCC
+Orange 4,,#E65C1B
+Orange 3,,#D97742
+Green 4,,#65A137
+Green 3,,#16A34A
+Cyan 4,,#00A0BE
+Cyan 3,,#0891B2
