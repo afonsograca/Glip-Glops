@@ -53,7 +53,7 @@ Run `zed: install dev extension` from the command palette and pick the [themes/Z
 See [themes/VSCode/glip-glops](themes/VSCode/glip-glops/README.md).
 
 ## Contributing
-`TODO`
+Contributions are welcome! Read the [contributing guidelines](CONTRIBUTING.md) to get started, and please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Screenshots
 `TODO`
