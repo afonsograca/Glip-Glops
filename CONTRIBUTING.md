@@ -20,6 +20,7 @@ There's no build step or toolchain: every theme is a plain file in [`themes/`](t
 - **Keep the variants in sync.** Every theme ships as **Glip Glops** (dark) and **Glip Glops Light**. A change to one usually needs the same change in the other.
 - **Keep the apps in sync.** The same role should look the same everywhere: keywords, strings, comments, the terminal colours and so on. If you change how a role is coloured in one app, update the others too.
 - **Keep the Xcode sizes in sync.** The regular, Presentation and Presentation Large Xcode themes differ only in font size.
+- **Keep the fonts paired.** Dark themes use **CommitMono** (weight 400) and light themes use **CommitMono450** (weight 450). To rebuild them, for example for a new Commit Mono release, go to [commitmono.com](https://commitmono.com/), upload the matching `custom-settings.json` from [`fonts/`](fonts) with **Retrieve custom settings**, leave the custom name empty for `CommitMono` or type `450` for `CommitMono450`, then **Download custom for dev** and replace the files.
 - **Show it.** Include before and after screenshots in your pull request, ideally of both variants.
 
 To try your changes:

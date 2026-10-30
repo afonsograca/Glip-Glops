@@ -33,7 +33,7 @@
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
 	<key>DVTLineSpacing</key>
-	<real>1.1000000238418579</real>
+	<real>1.2300000190734863</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.960784 0.960784 0.960784 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -156,59 +156,59 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.character</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.comment</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>FiraCode-Bold - 11.0</string>
+		<string>CommitMono450-Bold - 11.5</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SFMono-RegularItalic - 11.0</string>
+		<string>CommitMono450-Italic - 11.5</string>
 		<key>xcode.syntax.mark</key>
-		<string>FiraCode-Bold - 11.0</string>
+		<string>CommitMono450-Bold - 11.5</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.number</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 		<key>xcode.syntax.string</key>
-		<string>SFMono-RegularItalic - 11.0</string>
+		<string>CommitMono450-Italic - 11.5</string>
 		<key>xcode.syntax.url</key>
-		<string>FiraCode-Retina - 11.0</string>
+		<string>CommitMono450-Regular - 11.5</string>
 	</dict>
 </dict>
 </plist>

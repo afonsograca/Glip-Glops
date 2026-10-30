@@ -25,3 +25,7 @@ palette = 12=#4155D1
 palette = 13=#BE0A82
 palette = 14=#00A0BE
 palette = 15=#4C4C4C
+
+# Commit Mono at weight 450, the recommended weight for light mode.
+# Your own font-family adds to this one; put font-family = "" before it to replace it.
+font-family = CommitMono450
