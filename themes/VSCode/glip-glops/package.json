@@ -2,7 +2,13 @@
     "name": "glip-glops",
     "displayName": "Glip Glops",
     "description": "It’s like Xcode’s Civic and Dusk themes had a baby and it was raised by all the other languages you love to code in.",
-    "version": "0.0.1",
+    "version": "0.1.0",
+    "publisher": "afonsograca",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/afonsograca/Glip-Glops"
+    },
     "engines": {
         "vscode": "^1.66.0"
     },
