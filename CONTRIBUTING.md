@@ -32,6 +32,7 @@ To try your changes:
 | **VS Code** | Open [`themes/VSCode/glip-glops`](themes/VSCode/glip-glops) in VS Code and press `F5`. |
 | **Ghostty** | Point `theme` at the file's absolute path, run `ghostty +validate-config`, then reload with `⌘⇧,`. |
 | **Zed** | Run `zed: install dev extension` and pick [`themes/Zed`](themes/Zed). |
+| **Slack** | Enter the colours from [`themes/Slack`](themes/Slack/README.md) in **Preferences › Appearance › Custom theme**, in both colour modes. |
 
 Adding support for a new app is very welcome, and it should follow the same palette and role mapping as the existing themes.
 

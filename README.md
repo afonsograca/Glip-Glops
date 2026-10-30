@@ -73,6 +73,9 @@ See [themes/VSCode/glip-glops](themes/VSCode/glip-glops/README.md). For the [fon
 ```
 Like Zed, they use one font for both themes, so pick `CommitMono450` instead if you mostly work in light mode.
 
+### Slack
+In the Slack desktop app, go to **Preferences › Appearance › Custom theme** and enter the colours from [themes/Slack](themes/Slack/README.md). Use **Glip Glops Light** only with Slack's light colour mode; in dark mode Slack draws its own dark navigation. If you're in several workspaces, the same page has accent colours to tell them apart.
+
 ## Contributing
 Contributions are welcome! Read the [contributing guidelines](CONTRIBUTING.md) to get started, and please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
