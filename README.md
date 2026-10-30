@@ -77,7 +77,12 @@ Like Zed, they use one font for both themes, so pick `CommitMono450` instead if 
 Contributions are welcome! Read the [contributing guidelines](CONTRIBUTING.md) to get started, and please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Screenshots
-`TODO`
+Xcode and Terminal with the [Commit Mono builds](#font).
+
+| Glip Glops | Glip Glops Light |
+| --- | --- |
+| ![Xcode with Glip Glops](assets/screenshots/xcode-dark.png) | ![Xcode with Glip Glops Light](assets/screenshots/xcode-light.png) |
+| ![Terminal with Glip Glops](assets/screenshots/terminal-dark.png) | ![Terminal with Glip Glops Light](assets/screenshots/terminal-light.png) |
 
 ## Acknowledgements
 This README and the [contributing guidelines](CONTRIBUTING.md) are inspired by [Moya](https://github.com/Moya/Moya) and its [contributors guide](https://github.com/moya/contributors).
