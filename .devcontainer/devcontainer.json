@@ -1,0 +1,20 @@
+{
+  "name": "Glip Glops",
+  "image": "mcr.microsoft.com/devcontainers/base:alpine",
+  "remoteUser": "root",
+  "mounts": [
+    "source=${localEnv:HOME}/.claude,target=/root/.claude,type=bind,consistency=cached",
+    "source=${localEnv:HOME}/.claude.json,target=/root/.claude.json,type=bind,consistency=cached"
+  ],
+  "features": {
+    "ghcr.io/devcontainers-extra/features/claude-code:2": {},
+    "ghcr.io/devcontainers/features/common-utils:2": {}
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "zsh"
+      }
+    }
+  }
+}
