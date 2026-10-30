@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "glip-glops" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
-- Initial release
+- Dark theme rebuilt on the Glip Glops palette.
+- Added Glip Glops Light.

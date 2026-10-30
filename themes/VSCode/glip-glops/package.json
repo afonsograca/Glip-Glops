@@ -1,7 +1,7 @@
 {
     "name": "glip-glops",
     "displayName": "Glip Glops",
-    "description": " It’s like Xcode’s Civic and Dusk themes had a baby and it was raised by all the other languages you love to code in.",
+    "description": "It’s like Xcode’s Civic and Dusk themes had a baby and it was raised by all the other languages you love to code in.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
@@ -15,6 +15,11 @@
                 "label": "Glip Glops",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Glip Glops-color-theme.json"
+            },
+            {
+                "label": "Glip Glops Light",
+                "uiTheme": "vs",
+                "path": "./themes/Glip Glops Light-color-theme.json"
             }
         ]
     }
