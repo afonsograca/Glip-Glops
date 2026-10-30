@@ -1,0 +1,7 @@
+id = "glip-glops"
+name = "Glip Glops"
+version = "0.1.0"
+schema_version = 1
+authors = ["Afonso Graça"]
+description = "It’s like Xcode’s Civic and Dusk themes had a baby and it was raised by all the other languages you love to code in."
+repository = "https://github.com/afonsograca/Glip-Glops"

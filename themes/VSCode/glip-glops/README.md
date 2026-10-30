@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "glip-glops"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Glip Glops for VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+It’s like Xcode’s Civic and Dusk themes had a baby and it was raised by all the other languages you love to code in.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Includes **Glip Glops** (dark) and **Glip Glops Light**.
 
-**Enjoy!**
+## Install from source
+
+1. Copy or symlink this folder into `~/.vscode/extensions/glip-glops`.
+2. Reload VS Code.
+3. Run **Preferences: Color Theme** and pick **Glip Glops** or **Glip Glops Light**.
+
+To preview changes, open this folder in VS Code and press `F5`.
