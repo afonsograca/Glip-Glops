@@ -1,32 +1,51 @@
-name,dark,light
-Background,#1F2029,#FAFAFA
-Surface,#282938,#F5F5F5
-Border,#35404E,#E8E8E8
-Muted text,#B8B8B8,#6B6B6B
-Secondary text,#D4D4D4,#4C4C4C
-Primary text,#F5F5F5,#1F2029
-Pink,#D81196,#BE0A82
-Bright magenta,#FC44B5,
-Red,#DB2C38,#DB2C38
-Bright red,#FF5457,
-Orange 1,#D97742,
-Orange 2,#FF8C42,
-Yellow,#E8B339,#D4A100
-Bright yellow,#FFD786,
-Green 1,#83C057,
-Green 2,#32CF72,
-Bright green,#5DF091,
-Teal,#149C92,#149C92
-Cyan 1,#00A0BE,
-Cyan 2,#7DD3DA,
-Blue,#485EDB,#4155D1
-Bright blue,#627EFE,
-Purple,#786DC4,#786DC4
-Slate,#55747C,#55747C
-Invisible,,#CCCCCC
-Orange 4,,#E65C1B
-Orange 3,,#D97742
-Green 4,,#65A137
-Green 3,,#16A34A
-Cyan 4,,#00A0BE
-Cyan 3,,#0891B2
+mode,name,hex
+dark,Background,#1F2029
+dark,Surface,#282938
+dark,Faint border,#2B303F
+dark,Border,#35404E
+dark,Pink,#D81196
+dark,Bright magenta,#FC44B5
+dark,Red,#DB2C38
+dark,Bright red,#FF5457
+dark,Orange 1,#D97742
+dark,Orange 2,#FF8C42
+dark,Yellow,#E8B339
+dark,Bright yellow,#FFD786
+dark,Green 1,#83C057
+dark,Green 2,#32CF72
+dark,Bright green,#5DF091
+dark,Teal,#149C92
+dark,Cyan 2,#7DD3DA
+dark,Cyan 1,#00A0BE
+dark,Blue,#485EDB
+dark,Bright blue,#627EFE
+dark,Purple,#786DC4
+dark,Slate,#55747C
+dark,Muted text,#B8B8B8
+dark,Secondary text,#D4D4D4
+dark,Primary text,#F5F5F5
+light,Primary text,#1F2029
+light,Secondary text,#4C4C4C
+light,Muted text,#6B6B6B
+light,Pink,#BE0A82
+light,Bright magenta,#DA359A
+light,Red,#DB2C38
+light,Bright red,#F84C50
+light,Orange 4,#E65C1B
+light,Orange 3,#D97742
+light,Yellow,#D4A100
+light,Bright yellow,#EFBB38
+light,Green 4,#65A137
+light,Green 3,#16A34A
+light,Bright green,#3EBD62
+light,Teal,#149C92
+light,Cyan 4,#00A0BE
+light,Cyan 3,#0891B2
+light,Blue,#4155D1
+light,Bright blue,#556EED
+light,Purple,#786DC4
+light,Slate,#55747C
+light,Invisible,#CCCCCC
+light,Border,#E8E8E8
+light,Surface,#F5F5F5
+light,Background,#FAFAFA
