@@ -522,7 +522,7 @@
         "editor.indent_guide_active": "#55747C",
         "editor.document_highlight.read_background": "#4155D126",
         "editor.document_highlight.write_background": "#4155D140",
-        "editor.document_highlight.bracket_background": "#E8E8E8",
+        "editor.document_highlight.bracket_background": "#CCCCCC",
         "version_control.added": "#16A34A",
         "version_control.modified": "#4155D1",
         "version_control.deleted": "#DB2C38",
@@ -539,7 +539,7 @@
           {
             "cursor": "#1F2029",
             "background": "#1F2029",
-            "selection": "#E8E8E8"
+            "selection": "#CCCCCC"
           },
           {
             "cursor": "#4155D1",
